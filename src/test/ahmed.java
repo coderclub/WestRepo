@@ -12,4 +12,7 @@ public class ahmed {
     public static void nose (String n){
         System.out.println(n);
     }
+ public static void nose 2(String n){
+        System.out.println(n);
+    }
 }

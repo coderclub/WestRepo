@@ -16,7 +16,7 @@ public class UseHashMap {
         List<String> cityOfUK = new ArrayList<String>();
         cityOfUK.add("London");
         cityOfUK.add("Birmingham");
-        cityOfUK.add("Manchester");
+        cityOfUK.add("Manchester"); //manchester in uk
 
         List<String> cityOfBD = new ArrayList<String>();
         cityOfBD.add("Dhaka");

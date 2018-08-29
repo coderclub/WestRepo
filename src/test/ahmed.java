@@ -4,6 +4,7 @@ public class ahmed {
     public void hand(){
         System.out.println("ahmed has hand");
     }
+    public void brain(){ System.out.println("ahmed has a functional brain"); }
     public void leg(){
         System.out.println("ahmed has leg");
     }

@@ -10,7 +10,7 @@ public class UseHashMap {
         List<String> cityOfUSA = new ArrayList<String>();
         cityOfUSA.add("NY");
         cityOfUSA.add("NJ");
-        cityOfUSA.add("CA");
+        cityOfUSA.add("CA"); //Ca
         cityOfUSA.add("NC");
 
         List<String> cityOfUK = new ArrayList<String>();

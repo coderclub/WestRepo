@@ -11,6 +11,7 @@ public class testy {
        System.out.println(st);
         //akdfjd
         //kullu khalas
+ 	System.out.println("Ahmed Vai");
 
     }
 }

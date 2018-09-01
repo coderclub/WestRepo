@@ -9,6 +9,9 @@ public class testy {
        System.out.println(st);
        st.toLowerCase();
        System.out.println(st);
+        //akdfjd
+        //kullu khalas
+ 	System.out.println("Ahmed Vai");
 
     }
 }

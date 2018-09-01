@@ -10,13 +10,13 @@ public class UseHashMap {
         List<String> cityOfUSA = new ArrayList<String>();
         cityOfUSA.add("NY");
         cityOfUSA.add("NJ");
-        cityOfUSA.add("CA");
+        cityOfUSA.add("CA"); //Ca
         cityOfUSA.add("NC");
 
         List<String> cityOfUK = new ArrayList<String>();
         cityOfUK.add("London");
         cityOfUK.add("Birmingham");
-        cityOfUK.add("Manchester");
+        cityOfUK.add("Manchester"); //manchester in uk
 
         List<String> cityOfBD = new ArrayList<String>();
         cityOfBD.add("Dhaka");

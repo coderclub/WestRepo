@@ -4,7 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class UseQue {
+public class UseQue { // use of Queue
     public static void main(String[] args) {
         Queue<String> que = new LinkedList<String>();
         que.add("Nasir");

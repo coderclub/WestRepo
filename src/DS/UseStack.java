@@ -11,7 +11,7 @@ public class UseStack {
         ar [3] = 321;
         System.out.println(ar);
         
-        Stack<String> stack = new Stack();
+        Stack<String> stack = new Stack(); //ascjhdsih
         stack.push("NY");
         stack.push("NJ");
         stack.push("FL");

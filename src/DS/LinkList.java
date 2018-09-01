@@ -19,6 +19,7 @@ public class LinkList {
         list.add("CA");
         list.add("NJ");
         list.add("AZ");
+        list.add("NC");
 
         Iterator it = list.iterator();
         while (it.hasNext()){

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/shamswork.iml" filepath="$PROJECT_DIR$/.idea/shamswork.iml" />
     </modules>
   </component>

@@ -7,7 +7,7 @@ public  static void showMember(String a){
     b=a;
     System.out.println(a+" our member");
 
-}
+}//vgfgfhgf
 }
 
 class Test{

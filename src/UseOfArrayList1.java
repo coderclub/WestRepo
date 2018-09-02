@@ -13,7 +13,7 @@ public class UseOfArrayList1 {
         //fahim.remove(0);
       //  System.out.println(fahim);
         LinkedList <String> list=new LinkedList<String>();
-        list.add("hbh");
+        list.add("Farzaad");
         list.add("Nasir");
         list.add("Fahim");
         list.add("Ahmed");

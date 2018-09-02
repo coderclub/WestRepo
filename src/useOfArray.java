@@ -8,7 +8,7 @@ public class useOfArray {
         studentName.add("Fahim");
         studentName.add("Nasir");
         studentName.add("Ahmed");
-        studentName.add("Siddiki");
+        studentName.add("Siddiki");//kajfaeofhjqoejh
 
         System.out.println(studentName.size());
         System.out.println(studentName);

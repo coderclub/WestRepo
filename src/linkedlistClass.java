@@ -1,4 +1,4 @@
-package HomeWork5;
+package src;
 
 import java.util.LinkedList;
 

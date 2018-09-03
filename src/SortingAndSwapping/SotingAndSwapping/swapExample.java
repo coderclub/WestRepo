@@ -1,4 +1,4 @@
-package SortingAndSwapping;
+package src.SortingAndSwapping.SotingAndSwapping;
 import java.util.*;
 public class swapExample{
     public static void main(String[] args) {

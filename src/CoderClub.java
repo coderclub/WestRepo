@@ -1,4 +1,3 @@
-package HomeWork5;
 
 public class CoderClub {
  String a;//static variable & static method

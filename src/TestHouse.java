@@ -1,4 +1,4 @@
-package HomeWork5;
+
 
 public class TestHouse {
     public static void main(String[] args) {

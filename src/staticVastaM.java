@@ -1,4 +1,4 @@
-package HomeWork5;
+
 
 public class staticVastaM {
     static int houseSize;

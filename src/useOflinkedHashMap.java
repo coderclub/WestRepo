@@ -1,4 +1,3 @@
-package HomeWork5;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

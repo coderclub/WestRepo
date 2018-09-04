@@ -1,6 +1,5 @@
 
-package src;
-import java.util.Scanner;
+
 
 public class handleException {
     public static void main(String[] args) {

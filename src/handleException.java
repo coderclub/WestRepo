@@ -1,5 +1,5 @@
-package HomeWork5;
 
+package src;
 import java.util.Scanner;
 
 public class handleException {

@@ -35,7 +35,7 @@ public class ghBook {
             hmap.remove(3);
             System.out.println("Map key and values after removal:");
             Set set2 = hmap.entrySet();
-            Iterator iterator2 = set2.iterator();
+            Iterator iterator2 = set2.iterator();//lkeqajfrqeorqer9qe
             while(iterator2.hasNext()) {
                 Map.Entry mentry2 = (Map.Entry)iterator2.next();
                 System.out.print("Key is: "+mentry2.getKey() + " & Value is: ");

@@ -7,7 +7,7 @@ public class CheckIfAnagram {
         int[] s1Ascii = new int[s1.length()];
         int[] s2Ascii = new int[s2.length()];
 
-        if(s1.length()!=s2.length()) System.out.println("Not1 anagram.");
+        if(s1.length()!=s2.length()) System.out.println("Not anagram.");
         else {
             for(int i=0; i<s1.length();i++){
                 s1Ascii[i]= (int) s1.charAt(i);
@@ -18,7 +18,7 @@ public class CheckIfAnagram {
             Arrays.sort(s2Ascii);
 
             if(Arrays.equals(s1Ascii,s2Ascii)) System.out.println("Anagram");
-            else System.out.println("Not2 anagram");
+            else System.out.println("Not anagram");
 
         }
     }

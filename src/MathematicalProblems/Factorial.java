@@ -1,3 +1,5 @@
+package MathematicalProblems;
+
 public class Factorial {
     int result=1;
     public int factorial(int num){

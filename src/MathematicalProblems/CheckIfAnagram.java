@@ -1,3 +1,5 @@
+package MathematicalProblems;
+
 import java.util.Arrays;
 
 public class CheckIfAnagram {

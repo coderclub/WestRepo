@@ -1,3 +1,5 @@
+package MathematicalProblems;
+
 public class CheckIfPalindrome {
     public static void main(String[] args) {
         String palindrom = "aabaa";

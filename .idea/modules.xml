@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm.iml" />
     </modules>
   </component>
-=======
-	<component name="ProjectModuleManager">
-		<modules>
-			<module fileurl="file://$PROJECT_DIR$/.idea/shamswork.iml"
-				filepath="$PROJECT_DIR$/.idea/shamswork.iml" />
-		</modules>
-	</component>
->>>>>>> 133b72f7624c9038efd5162f639182b45f45db05
 </project>

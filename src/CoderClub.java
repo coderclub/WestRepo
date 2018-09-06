@@ -17,6 +17,7 @@ class Test{
         CoderClub.showMember("Ahmed");
         CoderClub.showMember("Nasir");
         CoderClub.showMember("Afia");
+        CoderClub.showMember("Shams");
         System.out.println("Siddique & Nasir added");
 
     }}

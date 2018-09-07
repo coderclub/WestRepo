@@ -13,5 +13,13 @@ class Test{
 
     public static void main(String[] args) {
         CoderClub.showMember("Fahim");
+        CoderClub.showMember("Siddique");
+        CoderClub.showMember("Ahmed");
+        CoderClub.showMember("Nasir");
+        CoderClub.showMember("Afia");
+        CoderClub.showMember("Shams");
+        CoderClub.showMember("Jaya");
+        CoderClub.showMember("Tofael");
+        System.out.println("Siddique & Nasir added");
 
     }}

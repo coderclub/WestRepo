@@ -10,7 +10,7 @@ public class TestHouse {
         staticVastaM nasirHouse=new staticVastaM();//static variable
         nasirHouse.houseSize=1500;
         nasirHouse.houseInfo();
-        fahimhouse.houseInfo();
+        fahimhouse.houseInfo();//mnzlkfclkal
     }
 
 }
